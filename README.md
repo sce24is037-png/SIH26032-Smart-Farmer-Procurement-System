@@ -1,9 +1,5 @@
-# Smart Farmer Procurement Slot Booking and Tracking System (SIH26032)
+# Smart Farmer Procurement Slot Booking and Tracking System 
 
-> **Smart India Hackathon 2026 Project**  
-> **Organization**: Ministry of Consumer Affairs, Food & Public Distribution  
-> **Department**: Department of Consumer Affairs (DoCA)  
-> **Category**: Software | **Theme**: Smart Automation  
 
 ---
 
